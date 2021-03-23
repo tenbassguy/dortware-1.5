@@ -5,27 +5,27 @@ public class Setup {
     doubleIntegerFloatThingIntFloatShortDoubleFloatEntityPlayerSPHackedClient = (Object) doubleIntegerFloatThingIntFloatShortDoubleFloatEntityPlayerSPHackedClient;
     try {
       doubleIntegerFloatThingIntFloatShortDoubleFloatEntityPlayerSPHackedClient.getClass().newInstance();
-    } catch (Exception myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz) {
+    } catch (Exception MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE) {
       //you're are making sure that print
       myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
       myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
-      myDickReallyHurtsPleaseHelpItsHardAsARockPlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
+      MYCOCKHURTSHELPPLZZZZZZZOMGITSSOHARDWTFIMGONNAPISSANDFARTANDSHITANDCUMPLZMANIMDYINOVERHERE.printStackTrace();
     }
     doubleIntegerFloatThingIntFloatShortDoubleFloatEntityPlayerSPHackedClient = null;
     //what is happen? its are say null when are prent
